@@ -12,7 +12,7 @@ The problem with dollar cost averaging is that it usually performs worse than in
 
 For more details, I recommend watching the video. The ideal way to invest any amount of money is in a lump sum. If you choose to dollar cost average, make sure you have a disciplined schedule and that you don't attempt to engage in any further market timing.
 
-And if the prospect of a market drop is so harrowing to you that you don't want to invest in a lump sum, then you should consider that your planned allocation may exceed your risk tolerance.
+And if the prospect of a market drop is so harrowing to you that you don't want to invest in a lump sum, then you should consider that your planned allocation may exceed your risk tolerance. Seriously considering dollar cost averaging, even though you're aware that it's a suboptimal approach, may be a sign that you'll struggle to cope with the volatility of your portfolio once you're invested.
 
 <!--
 Planning and enforcing your own rational behavior is perhaps the hardest part of investing.
