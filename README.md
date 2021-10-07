@@ -21,7 +21,7 @@ So please don't try to time the market. Keep it simple: do your research, decide
 Be the chad investor.
 
 <p align="center">
-<img src="https://github.com/investindex/Psychology/blob/main/ChadVirginInvestor.png"/>
+<img src="https://github.com/investindex/Psychology/blob/main/ChadVirginInvestor.png" width="743" height="400"/>
 </p>
 
 <!--
