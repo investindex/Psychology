@@ -14,6 +14,8 @@ For more details, I recommend watching the video. The ideal way to invest any am
 
 And if the prospect of a market drop is so harrowing to you that you don't want to invest in a lump sum, then you should consider that your planned allocation may exceed your risk tolerance. Seriously considering dollar cost averaging, even though you're aware that it's a suboptimal approach, may be a sign that you'll struggle to cope with the volatility of your portfolio once you're invested.
 
+Another common attempt at market timing is to wait until markets crash and preserve your cash for the opportunity to buy at low prices. Some people insist that "keeping your powder dry" is a great idea. Fortunately, Ben Felix has [studied](https://www.pwlcapital.com/is-now-a-good-time-to-invest) the data on this as well. I recommend [this video](https://www.youtube.com/watch?v=X1qzuPRvsM0&ab_channel=BenFelix). The problem with this strategy is similar to the problem with dollar cost averaging: holding cash instead of stocks is generally a bad idea. Major drops are rare enough that by the time they happen, you've missed out on so much growth that, on average, you've made less money. The other issue with this approach is that it's psychologically very difficult to plan to invest after (say) a 20% drawdown, since you'll likely be afraid of further declines and engage in further attempts at market timing.
+
 <!--
 Planning and enforcing your own rational behavior is perhaps the hardest part of investing.
 -->
