@@ -4,7 +4,7 @@ This section is incomplete pending an analysis I need to do on market timing.
 
 [This video](https://www.youtube.com/watch?v=9PYsVkPtcXk&ab_channel=BenFelix) on market crashes by Ben Felix was released in the midst of the 2020 COVID-related stock market crash. Its timing within the crisis endows it with the feeling of a coach giving a motivational halftime talk as the team is losing badly. Ben gives exactly the right advice for dealing with losses and provides historical background.
 
-### Invest all my money at once? Maybe I should buy the dip?
+### Invest all my money at once? Buy the dip?
 
 Many people struggle psychologically with the idea of investing all of their money at once — in a lump sum. The alternative is to invest it over some period — this is called dollar cost averaging. It functions as a regret avoidance technique. People who do this are worried they're investing in the next May 2008, shortly before a major market decline. So instead, they might invest 10% on the first day of each month for ten months, so that they don't inject all their money in the stock market at the worst possible time.
 
@@ -21,7 +21,7 @@ So please don't try to time the market. Keep it simple: do your research, decide
 Be the chad investor.
 
 <p align="center">
-<img src="https://github.com/investindex/Psychology/blob/main/ChadVirginInvestor.png" width="743" height="400"/>
+<img src="https://github.com/investindex/Psychology/blob/main/ChadVirginInvestor.png" width="836" height="450"/>
 </p>
 
 <!--
