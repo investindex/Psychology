@@ -18,6 +18,12 @@ Another common attempt at market timing is to wait until markets crash and prese
 
 So please don't try to time the market. Keep it simple: do your research, decide on your portfolio, and invest in a lump sum. When new money arrives, usually through your income, keep adding to the portfolio without waiting for a moment that feels right. Once you accept that you can't predict what the market will do in the near future, this will make investing much easier! You can mechanically invest new money and rebalance without the psychological burden of wondering if each small decision will have positive short-term results. If you're investing wisely, short-term results should not be a source of concern.
 
+Be the chad investor.
+
+<p align="center">
+<img src="https://github.com/investindex/Psychology/blob/main/ChadVirginInvestor.png"/>
+</p>
+
 <!--
 Planning and enforcing your own rational behavior is perhaps the hardest part of investing.
 -->
