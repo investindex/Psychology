@@ -1,4 +1,6 @@
-This section is under construction.
+This section is under construction. More will be added in the near future.
+
+&nbsp;
 
 # Your psychology
 
@@ -23,6 +25,29 @@ Be the chad investor.
 <p align="center">
 <img src="https://github.com/investindex/Psychology/blob/main/VirginChadInvestor.png" width="836" height="450"/>
 </p>
+
+&nbsp;
+
+[Click here for the next section — Guidelines for financial planning](https://github.com/investindex/Guidelines)
+
+&nbsp;
+
+All sections:
+
+* [Cover page](https://github.com/investindex/Intro)
+* [Introduction to index funds](https://github.com/investindex/Index)
+* [Thinking about risk](https://github.com/investindex/Risk)
+* [Your psychology](https://github.com/investindex/Psychology)
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
+* [Building a stock portfolio](https://github.com/investindex/Portfolio)
+* [Fund proposals](https://github.com/investindex/Funds)
+* [Concerns for the small investor](https://github.com/investindex/Small)
+* [Concerns for the large investor](https://github.com/investindex/Large)
+* [Practical information for execution](https://github.com/investindex/Practical)
+* [Taxes](https://github.com/investindex/Taxes)
+* [Vocabulary and further resources](https://github.com/investindex/Vocab)
+
+&nbsp;
 
 <!--
 [This video](https://www.youtube.com/watch?v=9PYsVkPtcXk&ab_channel=BenFelix) on market crashes by Ben Felix was released in the midst of the 2020 COVID-related stock market crash. Its timing within the crisis endows it with the feeling of a coach giving a motivational halftime talk as the team is losing badly. Ben gives exactly the right advice for dealing with losses and provides historical background.
