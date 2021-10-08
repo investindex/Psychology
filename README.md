@@ -2,7 +2,7 @@ This section is under construction.
 
 # Your psychology
 
-Planning and enforcing your own rational behavior is perhaps the hardest part of investing. Understanding your investments and selecting a great portfolio is arguably less important than reminding yourself to adhere to some essential guidelines and avoid common errors. We'll walk through those here.
+Planning and enforcing your own rational behavior is perhaps the hardest part of investing. Understanding your investments and selecting a great portfolio is arguably a less important task than reminding yourself to adhere to some essential guidelines and avoid common errors. We'll walk through those here.
 
 ### Mistakes made when buying in — invest all my money at once?
 
