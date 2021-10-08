@@ -1,12 +1,12 @@
+This section is under construction.
+
 # Your psychology
 
-This section is incomplete pending an analysis I need to do on market timing.
-
-[This video](https://www.youtube.com/watch?v=9PYsVkPtcXk&ab_channel=BenFelix) on market crashes by Ben Felix was released in the midst of the 2020 COVID-related stock market crash. Its timing within the crisis endows it with the feeling of a coach giving a motivational halftime talk as the team is losing badly. Ben gives exactly the right advice for dealing with losses and provides historical background.
+Planning and enforcing your own rational behavior is perhaps the hardest part of investing. Understanding your investments and selecting a great portfolio is arguably less important than reminding yourself of some essential principles, and to _not_ commit common errors. We'll walk through those here.
 
 ### Mistakes made when buying in — invest all my money at once?
 
-Many people struggle psychologically with the idea of investing all of their money at once — in a lump sum. The alternative is to invest it over some period — this is called dollar cost averaging. It functions as a regret avoidance technique. People who do this are worried they're investing in the next May 2008, shortly before a major market decline. So instead, they might invest 10% on the first day of each month for ten months, so that they don't inject all their money into the stock market at the worst possible time.
+Many people struggle psychologically with the idea of investing all of their money at one time — in a lump sum. The alternative is to invest it over some period — this is called dollar cost averaging. It functions as a regret avoidance technique. People who do this are worried they're investing in the next May 2008, shortly before a major market decline. So instead, they might invest 10% on the first day of each month for ten months, so that they don't inject all their money into the stock market at the worst possible time.
 
 The problem with dollar cost averaging is that it usually performs worse than investing a lump sum. This is true for a simple reason: the stock market tends to produce positive returns, and holding cash instead of investing usually constitutes a missed opportunity. Ben Felix conducted a [study](https://www.pwlcapital.com/resources/dollar-cost-averaging-vs-lump-sum-investing) of dollar cost averaging, and he discussed it [in this video](https://www.youtube.com/watch?v=3wzDp6ahvpU&t=2168s&ab_channel=TheRationalReminderPodcast). Vanguard also wrote a paper on this with a revealing title: "Dollar-cost averaging just means taking risk later". The bottom line of both of these studies is that returns from investing a lump sum beat returns from dollar cost averaging about twice as often as the opposite occurred.
 
@@ -21,9 +21,9 @@ So please don't try to time the market. Keep it simple: do your research, decide
 Be the chad investor.
 
 <p align="center">
-<img src="https://github.com/investindex/Psychology/blob/main/ChadVirginInvestor.png" width="836" height="450"/>
+<img src="https://github.com/investindex/Psychology/blob/main/VirginChadInvestor.png" width="836" height="450"/>
 </p>
 
 <!--
-Planning and enforcing your own rational behavior is perhaps the hardest part of investing.
+[This video](https://www.youtube.com/watch?v=9PYsVkPtcXk&ab_channel=BenFelix) on market crashes by Ben Felix was released in the midst of the 2020 COVID-related stock market crash. Its timing within the crisis endows it with the feeling of a coach giving a motivational halftime talk as the team is losing badly. Ben gives exactly the right advice for dealing with losses and provides historical background.
 -->
