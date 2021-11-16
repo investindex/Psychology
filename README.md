@@ -34,6 +34,10 @@ Be the chad investor.
 
 &nbsp;
 
+[To be continued]
+
+&nbsp;
+
 [Click here for the next section — Guidelines for financial planning](https://github.com/investindex/Guidelines)
 
 &nbsp;
