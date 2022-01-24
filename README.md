@@ -8,13 +8,13 @@ Planning and enforcing your own rational behavior is perhaps the hardest part of
 
 ### Mistakes made when buying in
 
-When first investing or when investing a large amount of money, many people struggle psychologically with the idea of investing all of it at one time — in a lump sum. The main alternative is to invest it over some period — a practice called dollar cost averaging. It functions as a regret avoidance technique. People who do this are worried they're investing in the next May 2008, shortly before a major market decline. So instead, they might invest 10% on the first day of each month for ten months, so that they don't inject all their money into the stock market at the worst possible time.
+When first investing or when investing a large amount of money, many people struggle psychologically with the idea of investing all of it at one time — in a lump sum. The main alternative is to invest it over some period — a practice called dollar cost averaging.<sup id="fn1">[1](#f1)</sup> It functions as a regret avoidance technique. People who do this are worried they're investing in the next May 2008, shortly before a major market decline. So instead, they might invest 10% on the first day of each month for ten months, so that they don't inject all their money into the stock market at the worst possible time.
 
 The problem with dollar cost averaging is that it usually performs worse than investing a lump sum. This is true for a simple reason: the stock market tends to produce positive returns, and holding cash instead of investing usually constitutes a missed opportunity. Ben Felix conducted a [study](https://www.pwlcapital.com/resources/dollar-cost-averaging-vs-lump-sum-investing) of dollar cost averaging, and he discussed it [in this video](https://www.youtube.com/watch?v=3wzDp6ahvpU&t=2168s&ab_channel=TheRationalReminderPodcast). Vanguard also wrote a [paper](https://www.passiveinvestingaustralia.com/downloads/Dollar-Cost-Averaging-Just-Means-Taking-Risk-Later-Vanguard.pdf) on this with a revealing title: "Dollar-cost averaging just means taking risk later". The bottom line of both of these studies was that in historical data, returns from investing a lump sum beat returns from dollar cost averaging about twice as often as the opposite occurred.
 
 In addition to this empirical result: if the prospect of a market drop is so harrowing to you that you don't want to invest in a lump sum, then you should consider that your planned allocation may exceed your risk tolerance. If you're seriously considering dollar cost averaging even though you're aware that it's suboptimal, it may be a sign that you'll struggle to cope with the volatility of your portfolio once you're invested.
 
-For more details, I recommend watching the [video](https://www.youtube.com/watch?v=3wzDp6ahvpU&t=2168s&ab_channel=TheRationalReminderPodcast). The ideal way to invest any amount of money is in a lump sum. If you choose to dollar cost average, make sure you have a disciplined schedule and that you don't attempt to engage in any further market timing.
+For more details, I recommend watching the [video](https://www.youtube.com/watch?v=3wzDp6ahvpU&t=2168s&ab_channel=TheRationalReminderPodcast). The ideal way to invest any amount of money is in a lump sum. If you choose to dollar cost average, make sure you have a disciplined schedule and that you don't attempt to engage in any further market timing. The shorter the period in which you invest 
 
 #### Buy the dip?
 
@@ -56,6 +56,14 @@ All sections:
 * [Practical information for execution](https://github.com/investindex/Practical)
 * [Taxes](https://github.com/investindex/Taxes)
 * [Vocabulary and further resources](https://github.com/investindex/Vocab)
+
+&nbsp;
+
+&nbsp;
+
+Footnote:
+
+<sup id="f1"> 1 </sup> Dollar cost averaging can also refer to investing over time as you receive money, usually by earning income. This is obviously unobjectionable. The form of dollar cost averaging I argue against here means that someone decides to wait before investing money they already have. [↩](#fn1)
 
 &nbsp;
 
