@@ -14,7 +14,7 @@ The problem with dollar cost averaging is that it usually performs worse than in
 
 In addition to this empirical result: if the prospect of a market drop is so harrowing to you that you don't want to invest in a lump sum, then you should consider that your planned allocation may exceed your risk tolerance. If you're seriously considering dollar cost averaging even though you're aware that it's suboptimal, it may be a sign that you'll struggle to cope with the volatility of your portfolio once you're invested.
 
-For more details, I recommend watching the [video](https://www.youtube.com/watch?v=3wzDp6ahvpU&t=2168s). The ideal way to invest any amount of money is in a lump sum. If you choose to dollar cost average (DCA), make sure you have a disciplined schedule and that you don't attempt to engage in any further market timing. The shorter the period over which you DCA, the better. So if you feel more comfortable investing 10% each day for two weeks, go ahead: it will barely affect your expected return.
+For more details, I recommend watching the [video](https://www.youtube.com/watch?v=3wzDp6ahvpU&t=2168s). The ideal way to invest any amount of money is in a lump sum. If you choose to dollar cost average (DCA), make sure you have a disciplined schedule and that you don't attempt to engage in any further market timing. The shorter the period over which you DCA, the better. So if you feel more comfortable investing 10% each day for two weeks, go ahead — it will barely affect your expected return.
 
 #### Buy the dip?
 
