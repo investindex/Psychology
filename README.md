@@ -16,7 +16,7 @@ In addition to this empirical result: if the prospect of a market drop is so har
 
 For more details, I recommend watching the [video](https://www.youtube.com/watch?v=3wzDp6ahvpU&t=2168s). The ideal way to invest any amount of money is in a lump sum. If you choose to dollar cost average (DCA), make sure you have a disciplined schedule and that you don't attempt to engage in any further market timing. The shorter the period over which you DCA, the better. So if you feel more comfortable investing 10% each day for two weeks, go ahead — it will barely affect your expected return.
 
-"Dollar cost averaging" can also refer to investing over time as you receive money, usually by earning income. This is obviously unobjectionable. The form of dollar cost averaging I argue against here means that someone decides to wait before investing money they already have.
+"Dollar cost averaging" can also refer to investing over time as you receive money, usually by earning income. This is, of course, unobjectionable. The form of dollar cost averaging I argue against here means that someone decides to wait before investing money they already have.
 
 #### Buy the dip?
 
