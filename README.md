@@ -4,6 +4,8 @@ This section is under construction. More will be added in the near future.
 
 # Your psychology
 
+Some of the advice dispensed here will be debatable. It reflects only one approach to investing, which might be called "thoroughly informed and thoroughly passive". It embraces the use of evidence to understand the nature of risk and potential return, while also recognizing that financial markets are impressive aggregators of information. I will not recommend trying to outsmart markets by timing strategic trades or betting that prices will fall at particular times. I will not suggest practices that require you to be more informed or smarter than everyone else (note that this is possible for only a few people, by definition). Instead, I will encourage you to capture the rewards of the market in ways that anyone can accomplish, with the right behavior.
+
 Planning and enforcing your own rational behavior is perhaps the hardest part of investing. Understanding your investments, selecting a great portfolio, using the right tax-advantaged accounts — these can be less important tasks than reminding yourself to adhere to some essential guidelines and avoid common errors. We'll walk through those here.
 
 ### Mistakes made when buying in
