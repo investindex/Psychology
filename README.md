@@ -44,6 +44,20 @@ Be the chad investor.
 
 ### Mistakes made once invested
 
+#### Stop looking at your investments
+
+Mobile devices have made it possible for any investor to access real-time market data at any time, and to trade at a moment's notice with no human intermediaries. Is this good for you? Only if you can handle it.
+
+Some people respond to this access by checking their investments multiple times a day. This will tend to make you think about changing your investments, and is more likely to depress your mood than if you check less frequently. Why? If you check the stock market once a day, you'll see red almost 50% of the time. If you check once a month, you'll see green in roughly two-thirds of cases. Checking once a year increases that probability above three-quarters, and checking once every 20 years should always show positive results for a diversified portfolio.
+
+So I have two suggestions.
+
+(1) Check your portfolio as infrequently as possible. Unless you're unlike most people, and you can watch market volatility with no thoughts about whether your allocation could use some tweaks, it's healthy to exercise some restraint. For some people it may be hard to limit themselves to once a day. Others may reach Friday afternoon and realize they haven't checked all week. If you're the former type, you may be at risk of stressing yourself too much when your investments are performing poorly. 
+
+(2) Don't look at your actual, hard-earned money too often. You should be investing some portion of your paycheck whenever you receive it weekly, biweekly, or monthly. So you'll view your account at that time, and it's good to do so occasionally. But when you're curious about market movements, I think it's better to view a third-party website or app like Yahoo! Finance. You can create a custom watchlist with the funds you want to be able to check. The advantage is that when you open the Yahoo! Finance app, you won't have immediate access to trading and you won't see the actual dollar amounts. It's easier to see that [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) is down 1.5% today than to see how much money your account has just lost.
+
+These habits are meant to make you feel less concern about the volatility of your investments, and to help you avoid changing your investments for emotional reasons.
+
 
 
 [To be continued]
