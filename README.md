@@ -44,6 +44,8 @@ Be the chad investor.
 
 ### Mistakes made once invested
 
+[More incoming here]
+
 #### Stop looking at your investments
 
 Mobile devices have made it possible for any investor to access real-time market data at any time, and to trade at a moment's notice with no human intermediaries. Is this good for you? Only if you can handle it.
