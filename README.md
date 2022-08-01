@@ -50,7 +50,7 @@ Be the chad investor.
 
 Mobile devices have made it possible for any investor to access real-time market data at any time, and to trade at a moment's notice with no human intermediaries. Is this good for you? Only if you can handle it.
 
-Some people respond to this access by checking their investments multiple times a day. This will tend to make you think about altering your portfolio, and is more likely to depress your mood than if you check less often. Why? If you check the stock market once a day, you'll see red almost 50% of the time. If you check once a month, you'll see green in roughly two-thirds of cases. Checking once a year increases that probability above three-quarters, and checking once every 20 years should always show positive results for a diversified portfolio. Checking less means you'll see more green!
+Some people respond to this access by checking their investments multiple times a day. This will tend to make you think about altering your portfolio, and is more likely to depress your mood than if you check less often. Why? If you check the stock market once a day, you'll see red almost half the time. If you check once a month, you'll see green in perhaps two-thirds of cases. Checking once a year increases that probability to roughly three-quarters, and checking once every 20 years should always show positive results for a diversified portfolio. Checking less means you'll see more green!
 
 So I have two suggestions.
 
