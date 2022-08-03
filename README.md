@@ -96,7 +96,9 @@ In my view, there are three rational reasons for a passive investor to exit a po
 
 &nbsp;
 
-[To be continued]
+## Common fallacies for investors
+
+[More incoming here]
 
 &nbsp;
 
