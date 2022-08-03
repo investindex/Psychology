@@ -44,9 +44,9 @@ Be the chad investor.
 
 ## Mistakes made once invested
 
-#### Fear and greed
+### Fear and greed
 
-Two major emotions can drive you to make unforced errors once you're invested: greed and fear.
+These two emotions can drive you to make unforced errors once you're invested.
 
 If you read or watch financial news, it can be hard not to notice the people who are enjoying higher returns than you. Envy, greed, the fear of missing out — these are not known to promote rational thought. But they propel many investors to chase the recent returns of flashy investments, embrace extreme risk — sometimes without realizing it — or otherwise make unwise decisions.
 
@@ -64,15 +64,15 @@ The second major source of unforced error is loss — the panic, fear, and uncer
 
 &nbsp;
 
-#### Write it down
+### Write it down
 
 How can you resist the temptations of fear and greed? One of the best methods, in my view, is to write a mission statement for your investments. There's an example in this footnote<sup id="fn1">[[1]](#f1)</sup> for a young person about to start investing.
 
-The statement should be detailed, ideally describing how you'll invest your money and the specific allocations in each account. The example statement doesn't just explain what the person will do, but also what their financial goals are and how the actions in their plan will support them. Your justifications and goals may be quite different than theirs — it's just an example. Whenever you feel any doubts about your investment plan, you can return to your mission statement and reassure yourself that however you may feel about the state of financial markets, you carefully considered your plan before you wrote the statement and made commitments in writing. Let the mission statement represent the conclusions of your most reflective self. This doesn't mean you can never change your plan, but you should do so only after significant thought and in a calm state of mind.
+The statement should be detailed, ideally describing how you'll invest your money and the specific allocations in each account. The example statement doesn't just explain what the person will do, but also what their financial goals are and how the actions in their plan will support them. Your justifications and goals may be quite different than theirs — it's just an example. Whenever you feel any doubts about your investment plan, you can return to your mission statement and reassure yourself that however you may feel about the state of financial markets, you carefully considered your plan before you wrote the statement and made commitments in writing. This doesn't mean you can never change your plan, but you should do so only with a calm mind after significant thought. Let the mission statement represent the conclusions of your most reflective self.
 
 &nbsp;
 
-#### Stop looking at your investments
+### Stop looking at your investments
 
 Mobile devices have made it possible for any investor to access real-time market data at any time, and to trade at a moment's notice with no human intermediaries. Is this good for you? Only if you can handle it.
 
