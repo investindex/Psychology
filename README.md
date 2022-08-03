@@ -46,7 +46,7 @@ Be the chad investor.
 
 #### Fear and greed
 
-There are two major forces that could drive you to make unforced errors once you're invested: events that trigger greed or fear.
+Two major emotions can drive you to make unforced errors once you're invested: greed and fear.
 
 If you read or watch financial news, it can be hard not to notice the people who are enjoying higher returns than you. Envy, greed, the fear of missing out — these are not known to promote rational thought. But they propel many investors to chase the recent returns of flashy investments, embrace extreme risk — sometimes without realizing it — or otherwise make unwise decisions.
 
@@ -64,7 +64,9 @@ The second major source of unforced error is loss — the panic, fear, and uncer
 
 &nbsp;
 
-How can you resist the temptations of fear and greed? One of the best methods, in my view, is to write a mission statement. 
+How can you resist the temptations of fear and greed? One of the best methods, in my view, is to write a mission statement. Here's an example for someone about to start investing in a taxable brokerage account and some retirement accounts:
+
+"I believe that passive, low-cost investing in diversified funds is the best practice for me, because the evidence indicates that this is the most reliable way to produce good investment returns. I'm investing in various funds that meet my risk tolerance for each portion of my assets. The money I need in the near future is in very low-risk investments, while the money I'm setting aside for the long run is in high-risk investments. I'm committed to not altering my risky, long-term portfolio beyond basic rebalancing. It will be tempting to change my long-term portfolio or even sell all my shares when it's performing poorly. But I understand that downturns are inevitable, and that my investments will eventually recover, because I selected a diversified portfolio that I'm comfortable with regardless of the state of financial markets. Not only will I not change my long-term portfolio when it's crashing, I will not stop contributing to it, because changing contributions in response to market movements is another form of ill-advised market timing. I will move money out of my long-term portfolio into less risky investments only when the need for that money is gradually approaching nearer. For example, one of those needs might be a down payment on a home."
 
 &nbsp;
 
@@ -109,6 +111,12 @@ In my view, there are three rational reasons for a passive investor to exit a po
 * Judging the quality of your decisions by their (short-term) outcomes
 
 * Endowment effect
+
+[More incoming here]
+
+&nbsp;
+
+## Why beating the market is fundamentally difficult
 
 [More incoming here]
 
