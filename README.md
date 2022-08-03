@@ -52,6 +52,8 @@ Second, many people have worse returns than you! The small minority of investors
 
 And third, some people who appear to be outperforming your investments are not really doing so on a risk-adjusted basis. They are achieving great returns by accepting extraordinary risk, and this can end in disaster, negating all the past returns. [Bill Hwang](https://www.youtube.com/watch?v=MhMhg97fmzE) was a hedge fund manager who became a billionaire during the long bull market of the 2010s. In March 2021, he lost many billions of dollars of his own money in a matter of days. For anyone interested, the link provides details on how this happened. But the lesson is that Bill Hwang became rich by tolerating a level of risk that would be unbearable to most people, and he lost everything for the same reason. It becomes easier to settle for normal investment returns when you appreciate that you're also settling for a normal level of risk.
 
+The second major source of unforced error is loss — the panic, fear, and uncertainty that strike when your account is shrinking.
+
 [More incoming here]
 
 #### Stop looking at your investments
