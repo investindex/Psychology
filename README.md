@@ -46,9 +46,11 @@ Be the chad investor.
 
 #### Fear and greed
 
-There are two major forces that could drive you to make unforced errors once you're invested. The first is noticing that someone else is enjoying higher returns than you. Envy, greed, the fear of missing out — these are not known to promote rational thought. But they propel many investors to chase the recent returns of flashy investments, embrace extreme risk — sometimes without realizing it — or otherwise make unwise decisions.
+There are two major forces that could drive you to make unforced errors once you're invested: events that trigger greed or fear.
 
-Let this sink in now: there will always be investors with higher returns than you, and that's fine. You can remind yourself of a few principles. First, [a vast majority](https://github.com/investindex/Index#f2) of investors with unusually high returns at any given time will underperform the broad market in the long run. The stock market is a very noisy system, and it is utterly predictable that individual returns will vary widely. This would happen even if all investors were equally skilled, and all differences were due to luck. Because we can't assess the exact role of chance in any particular situation, it can be hard to appreciate that luck strongly influences the distribution of individual returns.
+If you read or watch financial news, it can be hard not to notice the people who are enjoying higher returns than you. Envy, greed, the fear of missing out — these are not known to promote rational thought. But they propel many investors to chase the recent returns of flashy investments, embrace extreme risk — sometimes without realizing it — or otherwise make unwise decisions.
+
+Let this sink in now: there will always be investors with higher returns than you, and that's fine. You can remind yourself of a few principles. First, [a vast majority](https://github.com/investindex/Index#f2) of investors with unusually high returns at any given time will underperform the broad market in the long run. The stock market is a very noisy system, so it is utterly predictable that individual returns will vary widely (among people who don't simply invest in the cap-weighted global market). This would happen even if all investors were equally skilled, and all differences were due to luck. Because we can't assess the exact role of chance in any particular situation, it can be hard to appreciate that luck strongly influences the distribution of individual returns.
 
 Second, many people have worse returns than you! Most investors under-diversify, pay too much in management fees, try and fail to time the market, panic sell after crashes, wait too long to re-enter the market, and make a hundred other mistakes. The small minority of investors who can consistently sit back and capture the rewards of low-cost, passive investing will perform better than almost everyone else.
 
@@ -88,7 +90,7 @@ In my view, there are three rational reasons for a passive investor to exit a po
 
 * (1) You need to liquidate your investments to spend the money in the near future.
 
-* (2) You need to adjust the level of risk in accordance with the intended purpose of the money.
+* (2) You need to adjust the level of risk in accordance with the intended purpose of the asset.
 
 * (3) You decided that your investment choices were unwise in the first place.
 
@@ -97,6 +99,16 @@ In my view, there are three rational reasons for a passive investor to exit a po
 &nbsp;
 
 ## Common fallacies for investors
+
+* Essentializing specific investments as "good" or "bad"
+
+* Being willing to take more risk to make up for losses
+
+* Mental accounting
+
+* Judging the quality of your decisions by their (short-term) outcomes
+
+* Endowment effect
 
 [More incoming here]
 
