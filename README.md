@@ -44,6 +44,14 @@ Be the chad investor.
 
 ### Mistakes made once invested
 
+There are two major forces that could drive you to make unforced errors once you're invested. The first is noticing that someone else is enjoying higher returns than you. Greed, envy, the fear of missing out — these are not known for promoting rational thought. But they propel many investors to chase the recent returns of flashy investments, embrace extremely high risk — sometimes without realizing it — or otherwise make unwise decisions.
+
+Let this sink in now: there will always be investors with higher returns than you, and that's fine. You can remind yourself of a few principles. First, [a vast majority](https://github.com/investindex/Index#f2) of investors with unusually high returns at any given time will underperform the broad market in the long run. The stock market is a very noisy system, and it is utterly predictable that returns will vary widely. This would happen even if all investors were equally skilled, and all differences were due to luck. It would be difficult to overstate the degree to which luck influences the distribution of individual returns.
+
+Second, many people have worse returns than you! The small minority of investors who can consistently sit back and capture the rewards of passive investing will perform better than almost everyone else. This is true even though, every day and every year, you can observe people making news with incredible returns. Very few of those people will continue to do so.
+
+And third, some people who appear to be outperforming your investments are not really doing so on a risk-adjusted basis. They are achieving great returns by accepting extraordinary risk, and this can end in disaster, negating all the past returns. [Bill Hwang](https://www.youtube.com/watch?v=MhMhg97fmzE) was a hedge fund manager who became a billionaire during the long bull market of the 2010s. In March 2021, he lost many billions of dollars of his own money in a matter of days. For anyone interested, the link provides details on how this happened. But the lesson is that Bill Hwang became rich by tolerating a level of risk that would be unbearable to most people, and he lost everything for the same reason. It becomes easier to settle for normal investment returns when you appreciate that you're also settling for a normal level of risk.
+
 [More incoming here]
 
 #### Stop looking at your investments
