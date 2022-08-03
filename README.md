@@ -44,7 +44,9 @@ Be the chad investor.
 
 ## Mistakes made once invested
 
-There are two major forces that could drive you to make unforced errors once you're invested. The first is noticing that someone else is enjoying higher returns than you. Greed, envy, the fear of missing out — these are not known for promoting rational thought. But they propel many investors to chase the recent returns of flashy investments, embrace extremely high risk — sometimes without realizing it — or otherwise make unwise decisions.
+#### Fear and greed
+
+There are two major forces that could drive you to make unforced errors once you're invested. The first is noticing that someone else is enjoying higher returns than you. Envy, greed, the fear of missing out — these are not known to promote rational thought. But they propel many investors to chase the recent returns of flashy investments, embrace extremely high risk — sometimes without realizing it — or otherwise make unwise decisions.
 
 Let this sink in now: there will always be investors with higher returns than you, and that's fine. You can remind yourself of a few principles. First, [a vast majority](https://github.com/investindex/Index#f2) of investors with unusually high returns at any given time will underperform the broad market in the long run. The stock market is a very noisy system, and it is utterly predictable that individual returns will vary widely. This would happen even if all investors were equally skilled, and all differences were due to luck. People have a very hard time appreciating the degree to which luck influences the distribution of individual returns.
 
@@ -52,9 +54,13 @@ Second, many people have worse returns than you! Most investors pay too much in 
 
 And third, some people who appear to be outperforming your investments are not really doing so on a risk-adjusted basis. They are achieving great returns by accepting extraordinary risk, and this can end in disaster, negating all the past returns. [Bill Hwang](https://www.youtube.com/watch?v=MhMhg97fmzE) was a hedge fund manager who became a billionaire during the long bull market of the 2010s. In March 2021, his overextended investments finally collapsed. He lost many billions of dollars of his own money in a matter of days. For anyone interested, the link provides details on how this happened. The lesson for us here is that Bill Hwang became rich by tolerating a level of risk that would be unbearable to most people, and he lost everything for the same reason. It becomes easier to settle for normal returns when you appreciate that your boring diversified funds — which will never double your money in a week — also guard you against catastrophe.
 
+&nbsp;
+
 The second major source of unforced error is loss — the panic, fear, and uncertainty that strike when your account is shrinking.
 
 [More incoming here]
+
+&nbsp;
 
 #### Stop looking at your investments
 
