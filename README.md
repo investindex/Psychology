@@ -12,7 +12,7 @@ Planning and enforcing your own rational behavior is perhaps the hardest part of
 
 &nbsp;
 
-### Mistakes made when buying in
+## Mistakes made when buying in
 
 When first investing or when investing a large amount of money, many people struggle psychologically with the idea of investing all of it at one time — in a lump sum. The main alternative is to invest it over some period — a practice called [dollar cost averaging](https://www.fidelity.com/learning-center/trading-investing/dollar-cost-averaging). It functions as a regret avoidance technique. People who do this are worried they're investing in the next May 2008, shortly before a major market decline. So instead, they might invest 10% on the first day of each month for ten months, so that they don't inject all their money into the stock market at the worst possible time.
 
@@ -42,7 +42,7 @@ Be the chad investor.
 
 &nbsp;
 
-### Mistakes made once invested
+## Mistakes made once invested
 
 There are two major forces that could drive you to make unforced errors once you're invested. The first is noticing that someone else is enjoying higher returns than you. Greed, envy, the fear of missing out — these are not known for promoting rational thought. But they propel many investors to chase the recent returns of flashy investments, embrace extremely high risk — sometimes without realizing it — or otherwise make unwise decisions.
 
@@ -50,7 +50,7 @@ Let this sink in now: there will always be investors with higher returns than yo
 
 Second, many people have worse returns than you! The small minority of investors who can consistently sit back and capture the rewards of passive investing will perform better than almost everyone else. This is true even though, every day and every year, you can observe people making news with incredible returns. Very few of those people will continue to do so.
 
-And third, some people who appear to be outperforming your investments are not really doing so on a risk-adjusted basis. They are achieving great returns by accepting extraordinary risk, and this can end in disaster, negating all the past returns. [Bill Hwang](https://www.youtube.com/watch?v=MhMhg97fmzE) was a hedge fund manager who became a billionaire during the long bull market of the 2010s. In March 2021, he lost many billions of dollars of his own money in a matter of days. For anyone interested, the link provides details on how this happened. But the lesson is that Bill Hwang became rich by tolerating a level of risk that would be unbearable to most people, and he lost everything for the same reason. It becomes easier to settle for normal investment returns when you appreciate that you're also settling for a normal level of risk.
+And third, some people who appear to be outperforming your investments are not really doing so on a risk-adjusted basis. They are achieving great returns by accepting extraordinary risk, and this can end in disaster, negating all the past returns. [Bill Hwang](https://www.youtube.com/watch?v=MhMhg97fmzE) was a hedge fund manager who became a billionaire during the long bull market of the 2010s. In March 2021, he lost many billions of dollars of his own money in a matter of days. For anyone interested, the link provides details on how this happened. But the lesson is that Bill Hwang became rich by tolerating a level of risk that would be unbearable to most people, and he lost everything for the same reason. It becomes easier to settle for normal returns when you appreciate that your boring diversified funds — which will never make you a billionaire — also guard you against catastrophe.
 
 The second major source of unforced error is loss — the panic, fear, and uncertainty that strike when your account is shrinking.
 
