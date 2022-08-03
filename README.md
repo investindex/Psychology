@@ -64,6 +64,8 @@ The second major source of unforced error is loss — the panic, fear, and uncer
 
 &nbsp;
 
+#### Write it down
+
 How can you resist the temptations of fear and greed? One of the best methods, in my view, is to write a mission statement for your investments. Here's an example for someone about to start investing in a taxable brokerage account and some retirement accounts:
 
 "I believe that passive, low-cost investing in diversified funds is the best practice for me, because the evidence indicates that this is the most reliable way to produce good investment returns. I'm investing in various funds that meet my risk tolerance for each portion of my assets. The money I need in the near future is in very low-risk investments, while the money I'm setting aside for the long run is in high-risk investments. I'm committed to not altering my risky, long-term portfolio beyond basic rebalancing. It will be tempting to change my long-term portfolio or even sell all my shares when it's performing poorly. But I understand that downturns are inevitable, and that my investments will eventually recover, because I selected a diversified portfolio that I'm comfortable with regardless of market conditions.
@@ -72,7 +74,7 @@ Not only will I not change my long-term portfolio when it's crashing, I will not
 
 I won't withdraw any money from my retirement accounts before age 59½, except as a last resort. I'll move money out of my long-term portfolio into less risky funds only when the need for that money is approaching. For example, one of those needs might be a down payment on a home. I'm saving and investing with the goal of financial independence between the ages of 60 and 65, which means that I'll be able to live indefinitely on my investment earnings. Even before I reach financial independence, saving and investing consistently will give me more freedom in how I choose to spend my time."
 
-Notice that the mission statement doesn't just explain what they'll do, but also why these actions make sense and how they'll support their financial goals. Your justifications and goals might be very different. The statement is detailed, and I would recommend being even more detailed by including the specific allocation you plan to use. Whenever you feel any doubts about whether your investment plan is wise, you can return to your mission statement and reassure yourself that however you may feel about your investments, you carefully considered them before you wrote this mission statement and made these commitments in writing.
+Notice that the mission statement doesn't just explain what they'll do, but also why these actions make sense and how they'll support their financial goals. Your justifications and goals might be very different. The statement is detailed, and I would recommend being even more detailed by including the specific allocation you plan to use. Whenever you feel any doubts about whether your investment plan is wise, you can return to your mission statement and reassure yourself that however you may feel about your investments, you carefully considered them before you wrote this mission statement and made these commitments in writing. Let the mission statement represent the conclusions of your most reflective self, and may your most reflective self prevail when you consider straying.
 
 &nbsp;
 
