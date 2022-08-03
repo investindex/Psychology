@@ -62,6 +62,10 @@ The second major source of unforced error is loss — the panic, fear, and uncer
 
 &nbsp;
 
+How can you resist the temptations of fear and greed? One of the best methods, in my view, is to write a mission statement. 
+
+&nbsp;
+
 #### Stop looking at your investments
 
 Mobile devices have made it possible for any investor to access real-time market data at any time, and to trade at a moment's notice with no human intermediaries. Is this good for you? Only if you can handle it.
@@ -75,6 +79,20 @@ So I have two suggestions.
 (2) Don't look at your actual, hard-earned money too often. When you're curious about market movements, I think it's better to view a third-party website or app like Yahoo! Finance. You can create a custom watchlist with the funds you want to be able to check. The advantage is that when you open the Yahoo! Finance app, you won't have immediate access to trading and you won't see the actual dollar amounts. It's easier to see that [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) is down 1.3% today than to see how much money your account just lost.
 
 These habits are meant to make you feel less concern about the volatility of your investments, and to help you avoid changing your investments for emotional reasons.
+
+&nbsp;
+
+## Mistakes made when exiting investments
+
+In my view, there are three rational reasons for a passive investor to exit a position:
+
+* (1) You need to liquidate your investments to spend the money in the near future.
+
+* (2) You need to adjust the level of risk in accordance with the intended purpose of the money.
+
+* (3) You decided that your investment choices were unwise in the first place.
+
+[More incoming here]
 
 &nbsp;
 
