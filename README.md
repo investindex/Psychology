@@ -10,6 +10,14 @@ Some of the advice dispensed here will be debatable. It reflects only one approa
 
 Planning and enforcing your own rational behavior is perhaps the hardest part of investing. Understanding your investments, selecting a great portfolio, using the right tax-advantaged accounts — these can be less important tasks than reminding yourself to adhere to some essential guidelines and avoid common errors. We'll walk through those here.
 
+Click to move to each section:
+
+* [Mistakes made when buying in](https://github.com/investindex/Psychology#mistakes-made-when-buying-in)
+* [Mistakes made once invested](https://github.com/investindex/Psychology#mistakes-made-once-invested) - [Fear and greed](https://github.com/investindex/Psychology#fear-and-greed) - [Write it down](https://github.com/investindex/Psychology#write-it-down) - [Stop looking](https://github.com/investindex/Psychology#stop-looking-at-your-investments)
+* [Mistakes made when exiting investments](https://github.com/investindex/Psychology#mistakes-made-when-exiting-investments)
+* [Why beating the market is fundamentally difficult](https://github.com/investindex/Psychology#why-beating-the-market-is-fundamentally-difficult)
+* [Common fallacies for investors](https://github.com/investindex/Psychology#common-fallacies-for-investors)
+
 &nbsp;
 
 ## Mistakes made when buying in
@@ -110,7 +118,7 @@ In my view, there are three rational reasons for a passive investor to exit a po
 
 ## Common fallacies for investors
 
-We'll conclude this section with some widespread psychological pitfalls that I think investors should be careful to avoid.
+We'll conclude with some widespread psychological pitfalls that I think investors should be careful to avoid.
 
 * Judging the quality of your decisions by their (short-term) outcomes
 
@@ -126,7 +134,9 @@ If the stock market is as mystifying as I say, how can we learn anything from hi
 
 * Mental accounting
 
+Mental accounting is the tendency of people to mentally group their money and treat those groups in different ways, even if there is no real distinction between the groups. A common example is that people treat money with less care if they received it unexpectedly — perhaps from a tax refund, a lottery ticket, or a gift. People are often more willing to spend this money or, when investing, take high risk with it.
 
+However, some people prosecute the mental accounting fallacy too zealously. It is not true that all dollars are fungible, as is often stated when discussing this fallacy. Tax laws are the main reason why dollars can legitimately be separated into different buckets. The dollars in my checking account can be freely accessed if I need to spend them. If I were to withdraw the money in my traditional IRA because I needed to spend it, I would pay income tax as well as a 10% tax penalty on that withdrawal. Those dollars are _not_ fungible! The psychological isolation of retirement accounts from normal money is actually one of their great benefits. You can invest in a retirement account knowing that you won't touch the money until old age. Hopefully, this improves your tolerance for volatility and makes it more bearable to invest in risky assets.
 
 &nbsp;
 
