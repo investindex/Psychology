@@ -112,6 +112,14 @@ In my view, there are three rational reasons for a passive investor to exit a po
 
 ## Why beating the market is fundamentally difficult
 
+"Beating the market" can be defined in various ways, but here I'll define it as outperforming the risk-adjusted return of an asset class. It's not hard to outperform the aggregate bond market: just invest in long-term bonds or high-yield bonds, and in the long run your riskier investments will beat those of the average bond investor. The same goes for outperforming the cap-weighted stock market: as we'll discuss in a [later section](https://github.com/investindex/Portfolio), you can increase expected return by investing in riskier stocks. The question is, why is it so hard to select investments with higher long-term performance without taking higher risk? Why is it [so rare](https://github.com/investindex/Index#f2) that active managers beat broad stock market indices?
+
+We could discuss proximate [reasons](https://github.com/investindex/Index#f2) for why it's hard to outperform passive investors: the [positive skew](https://www.youtube.com/watch?v=xfdMDGIABek) of stock returns, the high fees charged by actively managed funds, the tendency for higher turnover to lead to less tax-efficiency, or the difficulty of maintaining outperformance as your assets under management grow larger. But I think it would be most useful to describe why prediction in financial markets is fundamentally different than prediction in many other domains.
+
+Consider the prediction of solar eclipses, a phenomenon that is unaffected by human actions. Scientific prediction of solar eclipses is so enviably accurate that right now, I already know the locations from which my descendents will be able to view a total solar eclipse on [July 16, 2186](https://en.wikipedia.org/wiki/Solar_eclipse_of_July_16,_2186). We know it will be the longest total solar eclipse since the Egyptian pyramids were built, and for thousands of years after the date as well. Sometimes prediction is like this: gather enough accurate information, apprehend the pattern, and you can make reliable predictions into the far future.
+
+Prediction of financial markets is totally unlike prediction of natural phenomena. If we all agree that an eclipse will occur on July 16, 2186, that has no effect on whether it actually happens. But markets are informationally adversarial environments. If new information reveals that a company's stock is undervalued, all participants are incentivized to buy shares, driving up the price until it's no longer judged as undervalued.
+
 [More incoming here]
 
 &nbsp;
