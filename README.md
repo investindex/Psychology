@@ -120,7 +120,9 @@ In my view, there are three rational reasons for a passive investor to exit a po
 
 We'll conclude with some widespread psychological pitfalls that I think investors should be careful to avoid.
 
-* Judging the quality of your decisions by their (short-term) outcomes
+&nbsp;
+
+#### Judging the quality of your decisions by their (short-term) outcomes
 
 In most domains, it's assumed that learning from the outcomes of your actions is wise. If you study for an exam and fail, you should adjust your study habits. There are two factors that make it unusually difficult to learn from feedback in financial markets. The first is that feedback is extremely noisy. Stocks might have average returns around 8%, but in some years they rise by 30% and in some they fall by 40%. If you carefully select a particular investment that performs well in the first year, how can you know whether it was due to your skill, or due to good luck? The second factor is that it's extremely difficult to identify the variables that need to change to improve your outcome. If you gave yourself time to study only half the material for an exam, you can reasonably infer that giving yourself more time to study would've improved your score. Financial markets are not subject to human intuition like this: if your portfolio disappoints you, how are you supposed to know what variables led to failure? There are unlimited possibilities and no definitive way to winnow them. Even if you thought you identified the right variables, how could you know if the behavior of those variables will persist in the future?
 
@@ -132,15 +134,21 @@ If the stock market is as mystifying as I say, how can we learn anything from hi
 
 &nbsp;
 
-* Mental accounting
+#### Mental accounting
 
-Mental accounting is the tendency of people to mentally group their money and treat those groups in different ways, even if there is no real distinction between the groups. A common example is that people treat money with less care if they received it unexpectedly — perhaps from a tax refund, a lottery ticket, or a gift. People are often more willing to spend this money or, when investing, take high risk with it.
+[Mental accounting](http://courses.washington.edu/pbafhall/514/514%20Readings/mental%20accounting%20matters.pdf) is the tendency to mentally group your money and treat those groups in different ways, even if there is no real distinction between the groups. A common example is that people treat money with less care if they received it unexpectedly — perhaps from a tax refund, a lottery ticket, or a gift. People are often more willing to spend this money or, when investing, take high risk with it. Here's another one: would you drive 40 minutes to a distant vendor to save $100 on a $300 kitchen appliance? Many people would. Would you drive 40 minutes to save $100 on a $30,000 car? Most people would regard that difference as a rounding error in the context of buying a car. But in both situations, you're getting paid $100 to take two 40-minute trips.
 
-However, some people prosecute the mental accounting fallacy too zealously. It is not true that all dollars are fungible, as is often stated when discussing this fallacy. Tax laws are the main reason why dollars can legitimately be separated into different buckets. The dollars in my checking account can be freely accessed if I need to spend them. If I were to withdraw the money in my traditional IRA because I needed to spend it, I would pay income tax as well as a 10% tax penalty on that withdrawal. Those dollars are _not_ fungible! The psychological isolation of retirement accounts from normal money is actually one of their great benefits. You can invest in a retirement account knowing that you won't touch the money until old age. Hopefully, this improves your tolerance for volatility and makes it more bearable to invest in risky assets.
+However, some people prosecute the problem of mental accounting too zealously. It is not true that all dollars are fungible, as is often stated when discussing this fallacy. Tax laws are the main reason why money can legitimately be separated into different buckets. The dollars in my checking account can be freely accessed if I need to spend them. If I were to withdraw the money in my traditional IRA because I needed to spend it, I would pay income tax as well as a 10% tax penalty on that withdrawal. Those dollars are _not_ fungible! The psychological isolation of retirement accounts from normal money is actually one of their great benefits. You can invest in a retirement account knowing that you won't touch the money until old age. Hopefully, this improves your tolerance for volatility and makes it more bearable to invest in risky assets with high expected return.
 
 &nbsp;
 
-* Essentializing narrow investments as "good" or "bad"
+#### Endowment effect
+
+[More incoming here]
+
+&nbsp;
+
+#### Essentializing narrow investments as "good" or "bad"
 
 It's widely said that you should own stock in "good" companies, and not "bad" companies. There are also, reportedly, "good" and "bad" countries to invest in. Arguments for these labels tend to rely on past returns, especially recent past returns. Let's review a few examples of why essentializing narrow investments as good or bad is not sensible.
 
@@ -151,14 +159,6 @@ Let's try a more fun illustration: Monster Beverage ([MNST](https://finance.yaho
 Note the distinction between these two statements: (1) "Monster stock has great returns" and (2) "Monster stock has had great returns". Statement (2) is an objective observation, but statement (1) implies properties about an investment that do not reliably persist. Monster stock may or may not perform well in the future. Narrow investments do not follow predictable patterns that we're accustomed to in many other domains. If we've been happy with a carpenter's work in the past, we can hire him again with a reasonable expectation that the quality of his work will persist. Or if last season, a baseball player hit a record number of home runs, we can predict with some confidence that he'll perform well again this season. I can't emphasize enough that financial investments are just not like that — their returns don't have persistent properties. The entire Japanese stock market can experience two decades of eye-watering returns, followed by two decades of malaise.
 
 A common debate among investors is about whether it makes sense to overweight the US stock market given how well it performed recently ([16.3%](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=2012&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=VTI&allocation1_1=100) average annual returns from 2012-2021). In my view, the tendency to essentialize investments as good or bad has caused many people to see US stocks as inherently better than ex-US stocks. I think this is reinforced by home country bias, which is the tendency of people everywhere to overweight investments in their own country. In efficient markets, we wouldn't expect a country's stock market to have higher expected return unless it carried higher risk. The US is certainly not a high-risk environment compared to emerging markets like China or Russia. Of course, markets like the US and Japan can have _unexpected_ returns, and unexpected returns are the norm in stock markets! But that doesn't mean we should expect unexpectedly high or low returns to continue in any market. In the [section on stock portfolios](https://github.com/investindex/Portfolio), I elaborate on why home country bias or bias toward recently high returns is not a good idea.
-
-&nbsp;
-
-* Being willing to take more risk to make up for losses
-
-* Endowment effect
-
-[More incoming here]
 
 &nbsp;
 
