@@ -102,11 +102,27 @@ In my view, there are three rational reasons for a passive investor to exit a po
 
 &nbsp;
 
+## Why beating the market is fundamentally difficult
+
+[More incoming here]
+
+&nbsp;
+
 ## Common fallacies for investors
 
-* Essentializing specific investments as "good" or "bad"
+We'll conclude this section with some widespread psychological pitfalls that I think investors should be careful to avoid.
 
-It's widely said that you should own stock in "good" companies, and not "bad" companies. There are also, reportedly, "good" and "bad" countries to invest in, presumably based on their past returns. Let's review a few examples of why essentializing narrow investments as good or bad is not sensible.
+* Judging the quality of your decisions by their (short-term) outcomes
+
+In most domains, it's assumed that learning from the outcomes of your actions is wise. If you study for an exam and fail, you should adjust your study habits. There are two factors that make it unusually difficult to learn from feedback in financial markets. The first is that feedback is extremely noisy. Stocks might have average returns around 8%, but in some years they rise by 30% and in some they fall by 40%. The second is that it's extremely difficult to identify the variables that need to change to improve your outcome. If you gave yourself time to study only half the material for an exam, you can reasonably infer that giving yourself more time to study would've improved your score. Financial markets are not subject to human intuition like this: if your portfolio disappoints you, how are you supposed to know what variables led to failure? Even if you thought you identified them, how could you know if the behavior of those variables will persist in the future?
+
+The issue that arises is that people don't appreciate these factors, and assume that they _can_ learn from outcomes. If their portfolio performs badly for the first year — or compares poorly to some benchmark they've chosen — they might decide that they've learned something about the quality of their portfolio. Maybe they should change it based on the data they've collected in the last year. The point here is to emphasize that a long-term investor can learn virtually nothing from a year of performance. Even ten years of performance gives us very little information. This statement would probably sound absurd to some people — in almost any other domain, ten years is a _long_ time. But you should think about market returns almost as a geologist would think about Earth's history, or an astrophysicist would think about the history of the universe. In those contexts, a decade of data is uninformative, because meaningful patterns are observable only on scales of thousands, millions, or billions of years.
+
+Financial markets are not quite as remote from human experience, but consider how much ten-year periods can differ from one another. Investing $10,000 in the total US stock market at the beginning of 2000 would have left you with [$9,732](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=2000&firstMonth=1&endYear=2009&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=VTSMX&allocation1_1=100) at the end of 2009. Investing in the same market for a decade at the beginning of 2012 would instead have turned $10,000 into more than [$45,000](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=2012&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=VTI&allocation1_1=100). Should we learn from the first decade that US stocks are a terrible investment? Or should we learn from the second decade that US stocks are a miraculous way to generate wealth, with little potential downside? The actual lesson is that even a full decade of information is very little to work with in systems as noisy as stock markets.
+
+* Essentializing narrow investments as "good" or "bad"
+
+It's widely said that you should own stock in "good" companies, and not "bad" companies. There are also, reportedly, "good" and "bad" countries to invest in. Arguments for these labels tend to rely on past returns, especially recent past returns. Let's review a few examples of why essentializing narrow investments as good or bad is not sensible.
 
 Between 1970 and 1989, the MSCI Japan index delivered an average annual return of 22.4%. Some quick math shows that 22.4% annual returns for 20 years lets an investor multiply their money by 1.224^20 = 57! For comparison, a typical 8% return delivers a measly 20-year multiplier of 4.7. These returns were staggering. Japan had the largest stock market in the world in 1989 and, especially for domestic investors, Japanese stocks were a "good" investment. You can probably guess the outline of what happened next: Japan's market crashed in 1990 and suffered through two decades of very poor performance, followed by middling performance in the most recent decade. So is Japan a good or bad country to invest in? This example is meant to illustrate why essentializing a single country's stock market as good or bad is misleading. This is especially true if someone points to recent past returns to justify it.
 
@@ -120,15 +136,7 @@ A common debate among investors is about whether it makes sense to overweight th
 
 * Mental accounting
 
-* Judging the quality of your decisions by their (short-term) outcomes
-
 * Endowment effect
-
-[More incoming here]
-
-&nbsp;
-
-## Why beating the market is fundamentally difficult
 
 [More incoming here]
 
