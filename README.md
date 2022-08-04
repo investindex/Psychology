@@ -58,7 +58,7 @@ And third, some people who appear to be outperforming your investments are not r
 
 &nbsp;
 
-The second major source of unforced error is loss — the panic, fear, and uncertainty that strike when your account is shrinking.
+The second major source of unforced error is loss — and the panic, fear, and uncertainty that strike when your account is shrinking.
 
 [More incoming here]
 
