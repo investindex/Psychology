@@ -70,6 +70,16 @@ The second major source of unforced error is loss — and the panic, fear, and u
 
 [This video](https://www.youtube.com/watch?v=9PYsVkPtcXk) on market crashes by Ben Felix was released in the midst of the 2020 COVID-related stock market crash. Its timing within the crisis endows it with the feeling of a coach giving a motivational halftime talk as the team is losing badly. Ben gives exactly the right advice for dealing with losses and provides historical background.
 
+A major point he makes is that bear markets are frightening in large part because of narratives about whatever crisis is causing an economic downturn. Narratives allow you to imagine the worst and forget what you know about rational investing. Even though global markets have endured world wars and major government collapses, scary narratives encourage you to think that this time could be different. [Another video](https://www.youtube.com/watch?v=Jh9Gn58r9Fw) Ben Felix published during the COVID crisis was called "Bear Markets: This Time is Different (Every Time)". That phrase is a succinct way of expressing that while every downturn has distinctive aspects, the impression of this time being uniquely frightening is nearly always wrong.
+
+<!--
+
+There will never be a point at which the dark clouds pass away, stocks turn toward an upward trend, and it's totally clear that we've hit the bottom and are now recovering. The bottom of a stock market drawdown always occurs when the outlook is still bleak. We only know it was the bottom in retrospect.
+
+Bias toward action
+
+-->
+
 [More incoming here]
 
 &nbsp;
@@ -178,7 +188,7 @@ Financial markets are not quite as remote from human experience, but consider ho
 
 If financial markets are as mystifying as I say, how can we learn anything from history? Instead of using narrow personal experience, I would advise using sources of data that are as broad as possible. Depending on the form of data, we have access to a few decades to a few centuries of information about financial markets. We also have data from dozens of different countries, not just the United States! We should use these data to form testable theories about how markets work, and only then can we make well-grounded projections about the future. The [section on stock portfolios](https://github.com/investindex/Portfolio) discusses how to combine theory and data to build evidence-based portfolios.
 
-Finally, even though you can't use your personal experience to pick better investments, there are a few ways you can learn from mistakes. Let's say you were invested in stocks in the late 2000s when the market crashed. After watching the terrifying news on CNBC every day, you sold at a major loss, trying to protect yourself from a total collapse. Even though the market was on a general upward trend after March 2009, the wild volatility of the next few years kept you on the sidelines. You were so rattled by your experience and the possibility of buying right before another market crash that you didn't invest much money again until 2016, missing out on years of gains. Can we learn from this mistake? Yes, we absolutely can. The cause of failure is identifiable — selling due to loss and waiting a long time to re-enter. Should we expect the same factors to cause success or failure in the future? Yes, staying invested instead of panic selling is expected to be a successful approach in the future for a diversified investor. This expectation is based on long historical data and the persistent tendency for returns to be very high right after downturns.
+Finally, even though you can't use your personal experience to pick better investments, there are a few ways you can learn from mistakes. Let's say you were invested in stocks in the late 2000s when the market crashed. After watching the terrifying news on CNBC every day, you sold at a major loss, trying to protect yourself from a total collapse. Even though the market was on a general upward trend after March 2009, the wild volatility of the next few years kept you on the sidelines. You were so rattled by your experience and the possibility of buying right before another market crash that you didn't invest much money again until 2016, missing out on years of gains. Can we learn from this mistake? Yes, we absolutely can. The cause of failure is identifiable — selling due to loss and waiting a long time to re-enter. Should we expect the same factors to cause success or failure in the future? Yes, staying invested instead of panic selling is expected to be a successful approach in the future for a diversified investor. This expectation is based on long historical data and the [persistent tendency](https://www.nber.org/papers/w23830) for returns to be very high right after downturns.
 
 &nbsp;
 
@@ -232,3 +242,5 @@ My risky, long-term portfolio is the complex portfolio [here](https://github.com
 &nbsp;
 
 &nbsp;
+
+<!-- Note for the author in case of dead link. "This expectation is based on long historical data and the [persistent tendency](https://www.nber.org/papers/w23830) for returns to be very high right after downturns." This links leads to the paper "Negative Bubbles: What Happens After a Crash by Goetzmann and Kim (2017). -->
