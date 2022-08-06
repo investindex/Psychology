@@ -164,7 +164,7 @@ Although mental accounting can be irrational, some people prosecute the issue to
 
 &nbsp;
 
-#### Judging the quality of your decisions by their (short-term) outcomes
+#### Judging the quality of your investments by (short-term) outcomes
 
 In most domains, it's assumed that learning from the outcomes of your actions is wise. If you study for an exam and fail, you should adjust your study habits. But in order to learn from experience, feedback has to be clear and the reasons for success or failure need to be identifiable and repeatable. Ideally, the feedback is also fairly prompt: it doesn't take years to gather a meaningful amount of information. In the domain of selecting good investments, all of these factors are lacking, making it [unusually difficult](https://www.youtube.com/watch?v=I8gH5bR3clg) to learn from experience.
 
