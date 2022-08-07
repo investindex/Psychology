@@ -170,7 +170,7 @@ Although mental accounting can be irrational, some people prosecute the issue to
 
 #### Endowment effect
 
-The [endowment effect](https://en.wikipedia.org/wiki/Endowment_effect) is the tendency to value things more highly merely due to owning them. In many studies, the lowest price at which a person offers to sell an item is higher than the price they'll pay for the same item. It has some overlap with [status quo bias](https://en.wikipedia.org/wiki/Status_quo_bias), a potentially irrational tendency to favor current circumstances over alternatives.
+The [endowment effect](https://en.wikipedia.org/wiki/Endowment_effect) is the tendency to value things more highly merely due to owning them. In many studies, the lowest price at which a person offers to sell an item is higher than the price they're willing to pay for the same item. It has some overlap with [status quo bias](https://en.wikipedia.org/wiki/Status_quo_bias), a potentially irrational tendency to favor current circumstances over alternatives.
 
 This can present itself in investing, sometimes with large financial consequences. Some employees, especially at publicly listed companies, receive stock in their employer's company as part of their compensation. Although it can come with strings attached, many employees keep their stock long after they could've sold it and bought shares of a diversified fund. For some people, company stock eventually becomes a significant portion of their net worth.
 
