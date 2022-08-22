@@ -229,7 +229,7 @@ All sections:
 
 Footnote:
 
-<sup id="f1"> 1 </sup> <b> Mission statement example </b>
+<sup id="f1"> 1 </sup> Here is a mssion statement example:
 
 > I believe that passive, low-cost investing in diversified funds is the best practice for me, because the evidence indicates that this is the most reliable way to produce good investment returns. I'm saving and investing with the goal of financial independence between the ages of 60 and 65, which means that I'll be able to live indefinitely on my investment earnings. Even before I reach financial independence, saving and investing consistently will give me more freedom in how I choose to spend my time. I'll invest in an allocation that meets my risk tolerance for each portion of my assets. The money I may need in the near future will be in low-risk funds, while the money I'm setting aside for the long run will be in high-risk funds. I'm committed to not altering my risky, long-term portfolio beyond basic rebalancing. It will be tempting to change my long-term portfolio or even sell all my shares when it's performing poorly. But I understand that downturns are inevitable, and that my investments will eventually recover, because I selected a diversified portfolio that I'm comfortable with regardless of market conditions.
 >
