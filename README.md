@@ -118,7 +118,10 @@ In my view, there are three rational reasons for a passive investor to exit a po
 
 * (3) You decided that your investment choices were unwise in the first place.
 
-<!-- You have to believe in what you're invested in (perhaps move to above) -->
+<!--
+You have to believe in what you're invested in (perhaps move to above) 
+Remind how important it is to hold and avoid prematurely selling [here](https://github.com/investindex/Taxes#tax-efficient-investing).
+-->
 
 [More incoming here]
 
