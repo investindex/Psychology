@@ -228,10 +228,6 @@ All sections:
 
 &nbsp;
 
-<!--
-<sup id="fn1">[[1]](#f1)</sup>
--->
-
 Footnote:
 
 <sup id="f1"> 1 </sup> Here is a mssion statement example:
