@@ -1,7 +1,3 @@
-This section is under construction. More will be added in the near future.
-
-&nbsp;
-
 # Your psychology
 
 Investing is an unusual field. As Morgan Housel noted in [this interview](https://www.youtube.com/watch?v=NSaRb-iFwPA&t=177s&ab_channel=TheRationalReminderPodcast), most people’s outcomes are far more attributable to their behavior than to their knowledge about investing. And as we discussed earlier, a large majority of professional active managers [underperform](https://github.com/investindex/Index#f1) index funds in the long run. This leads to the surprising conclusion that someone who knows only the basics but who exhibits great discipline can easily land themselves among the top 10% of lifetime investors. Housel's book _[The Psychology of Money](https://libgen.is/search.php?req=Housel+The+Psychology+of+Money&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ is a great read on various foundational lessons at the intersection of money and human behavior.
@@ -121,12 +117,11 @@ In my view, there are three rational reasons for a passive investor to exit a po
 
 * (3) You decided that your investment choices were unwise in the first place.
 
-<!--
-You have to believe in what you're invested in (perhaps move to above) 
-Remind how important it is to hold and avoid prematurely selling [here](https://github.com/investindex/Taxes#tax-efficient-investing).
--->
+The first reason should be clear: sometimes you need to raise cash by selling your investments.
 
-[More incoming here]
+The second reason is related to your risk tolerance and intended time horizon for a portion of your assets. If you have money earmarked for a down payment on a future home, you wouldn't want it fully invested in risky assets while you're touring houses. Risk should be reduced as you approach the target date.
+
+The third reason has many potential origins: you'd like to change your asset allocation after learning more; you realize your portfolio is too risky or not risky enough; you'd like to diversify after losing money due to concentrating too much in certain assets. Be conscious of tax implications, but you should be willing to update your portfolio as you gain new information about markets and about yourself.
 
 &nbsp;
 
