@@ -111,11 +111,11 @@ These habits are meant to make you feel less concern about the volatility of you
 
 In my view, there are three rational reasons for a passive investor to exit a position:
 
-* (1) You need to liquidate your investments to spend the money in the near future.
+* You need to liquidate your investments to spend the money in the near future.
 
-* (2) You need to adjust the level of risk in accordance with the intended purpose of the asset.
+* You need to adjust the level of risk in accordance with the intended purpose of the asset.
 
-* (3) You decided that your investment choices were unwise in the first place.
+* You decided that your investment choices were unwise in the first place.
 
 The first reason should be clear: sometimes you need to raise cash by selling your investments.
 
