@@ -74,7 +74,7 @@ A major point he makes is that bear markets are frightening in large part becaus
 
 Most people want to react to a crisis with action. They feel the need to _do something_ when they're losing money. That's usually wrong: risk management happens [before a crisis](https://www.youtube.com/watch?v=1WQ45rnHeok&t=1923s). The first step in reducing fear is to build a portfolio that you can tolerate in all market conditions. If you've never invested before, it can be difficult to know the volatility you're willing to endure. A good test is to vividly imagine how you'll react if you're very unlucky. Say the stock allocation in your portfolio drops by 3% the first day, and 20% in the first few months. Would you seriously contemplate selling? If you would, why? And what if you were very lucky, and your stock funds returned 30% in the first year? Would you increase your stock allocation and embrace risk? If so, does that make sense?
 
-Imagining these scenarios before starting is essential. Too many people wait until they've lost money to realize they have no idea why they bought an investment. Once you have a portfolio you're comfortable with regardless of market conditions, you'll be able to __focus on the soundness of the process__ instead of questioning your choices.
+Imagining these scenarios before starting is essential. Too many people wait until they've lost money to realize they have no idea why they bought an investment. If you buy something you don't understand or don't believe in, you'll realize that when it's performing poorly. You need to have a certain amount of faith in your investments. It makes no difference to their returns, but it does determine whether you'll stay invested. Once you have a portfolio you're comfortable with regardless of market conditions, you'll be able to __focus on the soundness of the process__ no matter what happens.
 
 <!--
 
@@ -84,8 +84,6 @@ Imagining these scenarios before starting is essential. Too many people wait unt
 There will never be a point at which the dark clouds pass away, stocks turn toward an upward trend, and it's totally clear that we've hit the bottom and are now recovering. The bottom of a stock market drawdown always occurs when the outlook is still bleak. We know it was the bottom only in retrospect.
 
 -->
-
-[More incoming here]
 
 &nbsp;
 
