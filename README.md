@@ -66,23 +66,22 @@ And third, some people who appear to be outperforming your investments are not r
 
 &nbsp;
 
-The second major source of unforced error is loss — the panic, fear, and uncertainty that strike when your account is shrinking. Investors generally understand that volatility is an inherent part of investing in risky assets. It's easy to learn about past downturns and see that a globally diversified investor would have eventually recovered. It's much more challenging to plow into the unknown every day, with no idea where the bottom is or what bad news could be approaching.
+The second major source of unforced error is loss — the panic, fear, and uncertainty that strike when your account is shrinking. Investors generally understand that volatility is an inherent part of investing in risky assets. It's easy to learn about past downturns and see that a globally diversified investor would have eventually recovered. It's much more challenging to plow through an unknown bear market day by day, with no idea where the bottom is or what bad news could be approaching.
 
 [This video](https://www.youtube.com/watch?v=9PYsVkPtcXk) on market crashes by Ben Felix was released in the midst of the 2020 COVID-related stock market crash. Its timing within the crisis endows it with the feeling of a coach giving a motivational halftime talk as the team is losing badly. Ben gives exactly the right advice for dealing with losses and provides historical background.
 
-A major point he makes is that bear markets are frightening in large part because of narratives about whatever crisis is causing an economic downturn. Narratives allow you to imagine the worst and forget what you know about rational investing. The more you pay attention to financial news, the more reasons you'll  Even though global markets have endured world wars and major government collapses, scary narratives encourage you to think that this time could be different. Every downturn has [distinctive aspects](https://www.youtube.com/watch?v=Jh9Gn58r9Fw), but the impression of this time being uniquely frightening is nearly always wrong.
+A major point he makes is that bear markets are frightening in large part because of narratives about whatever crisis is causing an economic downturn. Narratives allow you to imagine the worst and forget what you know about rational investing. If you pay attention to financial news, the information will make you even more capable of justifying fear-based actions. Even though global markets have endured world wars and major government collapses, scary narratives encourage you to think that this time could be different. Every downturn has [distinctive aspects](https://www.youtube.com/watch?v=Jh9Gn58r9Fw), but the impression of this time being uniquely frightening is nearly always wrong.
 
->You've got to look in the mirror every day and say, "What am I going to do if the market goes down 10%? What do I do if it goes down 20%? Am I going to sell? Am I going to get out?" If that's your answer, you should consider reducing your stock holdings today. -Peter Lynch
+Most people want to react to a crisis with action. They feel the need to _do something_ when they're losing money. That's usually wrong: risk management happens [before a crisis](https://www.youtube.com/watch?v=1WQ45rnHeok&t=1923s). The first step in reducing fear is to build a portfolio that you can tolerate in all market conditions. If you've never invested before, it can be difficult to know the volatility you're willing to endure. A good test is to vividly imagine how you'll react if you're very unlucky. Say the stock allocation in your portfolio drops by 3% the first day, and 20% in the first few months. Would you seriously contemplate selling? If you would, why? And what if you were very lucky, and your stock funds returned 30% in the first year? Would you increase your stock allocation and embrace risk? If so, does that make sense?
+
+Imagining these scenarios before starting is essential. Too many people wait until they've lost money to realize they have no idea why they bought an investment. Once you have a portfolio you're comfortable with regardless of market conditions, you'll be able to __focus on the soundness of the process__ instead of questioning your choices.
 
 <!--
 
-Focus on the soundness of the process.
-
-[https://www.youtube.com/watch?v=1WQ45rnHeok&t=1923s](https://www.youtube.com/watch?v=1WQ45rnHeok&t=1923s): Risk management happens before a crisis.
+>You've got to look in the mirror every day and say, "What am I going to do if the market goes down 10%? What do I do if it goes down 20%? Am I going to sell? Am I going to get out?" If that's your answer, you should consider reducing your stock holdings today.
+>-Peter Lynch
 
 There will never be a point at which the dark clouds pass away, stocks turn toward an upward trend, and it's totally clear that we've hit the bottom and are now recovering. The bottom of a stock market drawdown always occurs when the outlook is still bleak. We know it was the bottom only in retrospect.
-
-Bias toward action
 
 -->
 
