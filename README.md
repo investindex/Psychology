@@ -109,7 +109,7 @@ These habits are meant to make you feel less concern about the volatility of you
 
 ## Mistakes made when exiting investments
 
-In my view, there are three rational reasons for a passive investor to exit a position:
+In my view, there are only about four rational reasons for a passive investor to exit a position:
 
 * You need to liquidate your investments to spend the money in the near future.
 
@@ -117,11 +117,17 @@ In my view, there are three rational reasons for a passive investor to exit a po
 
 * You decided that your investment choices were unwise in the first place.
 
+* You identified an opportunity for tax loss harvesting.
+
 The first reason should be clear: sometimes you need to raise cash by selling your investments.
 
 The second reason is related to your risk tolerance and intended time horizon for a portion of your assets. If you have money earmarked for a down payment on a future home, you wouldn't want it fully invested in risky assets while you're touring houses. Risk should be reduced as you approach the target date.
 
 The third reason has many potential origins: you'd like to change your asset allocation after learning more; you realize your portfolio is too risky or not risky enough; you'd like to diversify after losing money due to concentrating too much in certain assets. Be conscious of tax implications, but you should be willing to update your portfolio as you gain new information about markets and about yourself.
+
+Tax loss harvesting is the conscious use of realized losses to offset realized gains for tax purposes. There are misconceptions about its proper use, which are discussed in the [section on taxes](https://github.com/investindex/Taxes#tax-loss-harvesting).
+
+Any other reasons for exiting an investment are questionable. Holding investments as long as possible and deferring tax is an important part of [tax-efficient investing](https://github.com/investindex/Taxes#tax-efficient-investing).
 
 &nbsp;
 
