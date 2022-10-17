@@ -13,7 +13,7 @@ Planning and enforcing your own rational behavior is perhaps the hardest part of
 Click to move to each section:
 
 * [Mistakes made when buying in](https://github.com/investindex/Psychology#mistakes-made-when-buying-in)
-* [Mistakes made once invested](https://github.com/investindex/Psychology#mistakes-made-once-invested) - [Fear and greed](https://github.com/investindex/Psychology#fear-and-greed) - [Write it down](https://github.com/investindex/Psychology#write-it-down) - [Stop looking](https://github.com/investindex/Psychology#stop-looking-at-your-investments)
+* [Mistakes made once invested](https://github.com/investindex/Psychology#mistakes-made-once-invested) - [Greed and fear](https://github.com/investindex/Psychology#greed-and-fear) - [Write it down](https://github.com/investindex/Psychology#write-it-down) - [Stop looking](https://github.com/investindex/Psychology#stop-looking-at-your-investments)
 * [Mistakes made when exiting investments](https://github.com/investindex/Psychology#mistakes-made-when-exiting-investments)
 * [Why beating the market is fundamentally difficult](https://github.com/investindex/Psychology#why-beating-the-market-is-fundamentally-difficult)
 * [Common fallacies for investors](https://github.com/investindex/Psychology#common-fallacies-for-investors)
@@ -52,7 +52,7 @@ Be the chad investor.
 
 ## Mistakes made once invested
 
-### Fear and greed
+### Greed and fear
 
 These two emotions can drive you to make unforced errors once you're invested.
 
@@ -74,7 +74,7 @@ A major point he makes is that bear markets are frightening in large part becaus
 
 Most people want to react to a crisis with action. They feel the need to _do something_ when they're losing money. That's usually wrong: risk management happens [before a crisis](https://www.youtube.com/watch?v=1WQ45rnHeok&t=1923s). The first step in reducing fear is to build a portfolio that you can tolerate in all market conditions. If you've never invested before, it can be difficult to know the volatility you're willing to endure. A good test is to vividly imagine how you'll react if you're very unlucky. Say the stock allocation in your portfolio drops by 3% the first day, and 20% in the first few months. Would you seriously contemplate selling? If you would, why? And what if you were very lucky, and your stock funds returned 30% in the first year? Would you increase your stock allocation and embrace risk? If so, does that make sense?
 
-Imagining these scenarios before starting is essential. Too many people wait until they've lost money to realize they have no idea why they bought an investment. If you buy something you don't understand or don't believe in, you'll realize that when it's performing poorly. You need to have a certain amount of faith in your investments. It makes no difference to their returns, but it does determine whether you'll stay invested. Once you have a portfolio you're comfortable with regardless of market conditions, you'll be able to __focus on the soundness of the process__ no matter what happens.
+Imagining these scenarios before starting is essential. Too many people wait until they've lost money to realize they have no idea why they bought an investment. If you buy something you don't understand or don't believe in, that will become clear when it's performing poorly. You need to have a certain amount of faith in your investments. It makes no difference to their returns, but it does determine whether you'll stay invested. Once you have a portfolio you're comfortable with regardless of market conditions, you'll be able to __focus on the soundness of the process__ no matter what happens.
 
 <!--
 
