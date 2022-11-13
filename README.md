@@ -127,7 +127,7 @@ The third reason has many potential origins: you'd like to change your asset all
 
 Tax loss harvesting is the conscious use of realized losses to offset realized gains for tax purposes. There are misconceptions about its proper use, which are discussed in the [section on taxes](https://github.com/investindex/Taxes#tax-loss-harvesting).
 
-Any other reasons for exiting an investment are questionable. Holding investments as long as possible and deferring tax is an important part of [tax-efficient investing](https://github.com/investindex/Taxes#tax-efficient-investing).
+For an investor committed to being thoroughly informed and thoroughly passive, any other reasons for exiting an investment are questionable. Holding investments as long as possible and deferring tax is an important part of [tax-efficient investing](https://github.com/investindex/Taxes#tax-efficient-investing).
 
 &nbsp;
 
