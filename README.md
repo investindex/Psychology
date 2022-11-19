@@ -151,6 +151,12 @@ Those who remind investors not to miss the best days tend to ignore two points: 
 
 But again, I warn of the difficulty of outsmarting the market through timing. If you think you have a talent for anticipating the market's direction, try to write down what you think will happen to the next day's stocks each night. Or if you think it's easier, try predicting next week's movement each Friday. Do this every day for a few months, or every week for a year, and I think you'll learn how difficult it is. In my view, a thoroughly informed and passive investor should buy and hold until they can invoke one of the four reasons discussed above for exiting an investment.
 
+<p align="center">
+<img src="https://github.com/investindex/Psychology/blob/main/Gains%20and%20losses.png"/>
+</p>
+
+&nbsp;
+
 &nbsp;
 
 ## Common fallacies for investors
