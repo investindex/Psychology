@@ -260,13 +260,11 @@ Footnote:
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> Black Monday appears to have no corresponding positive move, but at rank 22 is a +9.1% return on Oct 21 1987.
+<sup id="f2"> 2 </sup> Black Monday appears to have no corresponding positive move on the right side of the table, but at rank 22 (not shown) is a +9.1% return on Oct 21 1987, the Wednesday after Black Monday.
 
-The event groupings are slightly arbitrary: World War II and the Great Depression encompassed many events, of course. The largest move on Apr 9 1943 appears to have been triggered by the [announcement](https://en.wikipedia.org/wiki/April_1943#April_7,_1943_(Wednesday)) of post-war economic plans from US and UK leadership. [These](https://www.foreignaffairs.com/articles/united-states/1943-07-01/currency-stabilization-keynes-and-white-plans) [plans](https://www.imf.org/en/Publications/WP/Issues/2016/12/30/Why-White-Not-Keynes-Inventing-the-Post-War-International-Monetary-System-15718) preceded the famous [conference at Bretton Woods](https://en.wikipedia.org/wiki/Bretton_Woods_Conference), which established many aspects of the post-WWII global financial system, including the [International Monetary Fund](https://en.wikipedia.org/wiki/International_Monetary_Fund).
+The event groupings are slightly arbitrary: World War II and the Great Depression encompassed many events, of course. The largest move on Apr 9 1943 appears to have been triggered by the [announcement](https://en.wikipedia.org/wiki/April_1943#April_7,_1943_(Wednesday)) of post-war economic plans from US and UK leadership (sometimes known as the "[Keynes plan](https://core.ac.uk/download/pdf/39179343.pdf)"). [These](https://www.foreignaffairs.com/articles/united-states/1943-07-01/currency-stabilization-keynes-and-white-plans) [proposals](https://www.imf.org/en/Publications/WP/Issues/2016/12/30/Why-White-Not-Keynes-Inventing-the-Post-War-International-Monetary-System-15718) led to the famous [conference at Bretton Woods](https://en.wikipedia.org/wiki/Bretton_Woods_Conference), which established many aspects of the post-WWII global financial system, including the [International Monetary Fund](https://en.wikipedia.org/wiki/International_Monetary_Fund).
 
-The data were taken from Yahoo! Finance [here](https://finance.yahoo.com/quote/%5EGSPC/). The S&P 500 index launched in 1957, but the S&P Composite index was its predecessor. Yahoo's data on the [S&P 500's total return](https://finance.yahoo.com/quote/%5ESP500TR) extends only to 1988. [↩](#fn2)
-
-&nbsp;
+The data were taken from Yahoo! Finance [here](https://finance.yahoo.com/quote/%5EGSPC/) with the [yfinance](https://github.com/ranaroussi/yfinance) Python library. The S&P 500 index launched in 1957, but the S&P Composite index was its predecessor. Yahoo's data on the [S&P 500's total return](https://finance.yahoo.com/quote/%5ESP500TR) extends only to 1988. [↩](#fn2)
 
 &nbsp;
 
@@ -276,4 +274,6 @@ The data were taken from Yahoo! Finance [here](https://finance.yahoo.com/quote/%
 
 &nbsp;
 
-<!-- Note for the author in case of dead link. "This expectation is based on long historical data and the [persistent tendency](https://www.nber.org/papers/w23830) for returns to be very high right after downturns." This links leads to the paper "Negative Bubbles: What Happens After a Crash by Goetzmann and Kim (2017). -->
+&nbsp;
+
+<!-- Note for the author in case of dead link. "[Keynes plan](https://core.ac.uk/download/pdf/39179343.pdf)". This link leads to "The Keynes Plan for an International Clearing Union Reconsidered" by Iwamoto (1997). "[These](https://www.foreignaffairs.com/articles/united-states/1943-07-01/currency-stabilization-keynes-and-white-plans) [proposals](https://www.imf.org/en/Publications/WP/Issues/2016/12/30/Why-White-Not-Keynes-Inventing-the-Post-War-International-Monetary-System-15718)". These links lead to "Currency Stabilization: the Keynes and White Plans" by John H. Williams in _Foreign Affairs_ and "Why White, Not Keynes? Inventing the Post-War International Monetary System" by Boughton (2002). "This expectation is based on long historical data and the [persistent tendency](https://www.nber.org/papers/w23830) for returns to be very high right after downturns." This link leads to the paper "Negative Bubbles: What Happens After a Crash" by Goetzmann and Kim (2017). -->
