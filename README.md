@@ -152,7 +152,7 @@ Those who remind investors not to miss the best days tend to ignore two points: 
 But again, I warn of the difficulty of outsmarting the market through timing. If you've guessed right a few times and think you have a talent for anticipating the market's direction, try to write down each day at 4pm what you think will happen the next day. Or if you think it's easier, try predicting next week's movement each Friday. Do this every day for a few months, or every week for a year, and I think you'll learn how difficult it is. In my view, a thoroughly informed and passive investor should buy and hold until they can invoke one of the four reasons discussed above for exiting an investment. More info on the table is in this footnote.<sup id="fn2">[[2]](#f2)</sup>
 
 <p align="center">
-<img src="https://github.com/investindex/Psychology/blob/main/Gains%20and%20losses.png"/>
+<img src="https://github.com/investindex/Psychology/blob/main/Largest%20Gains%20and%20Losses.png"/>
 </p>
 
 &nbsp;
@@ -260,11 +260,11 @@ Footnote:
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> Black Monday appears to have no corresponding positive move on the right side of the table, but at rank 22 (not shown) is a +9.1% return on Oct 21 1987, the Wednesday after Black Monday.
+<sup id="f2"> 2 </sup> The event groupings are slightly arbitrary: World War II and the Great Depression encompassed many events, of course. The largest move on Apr 9 1943 appears to have been triggered by the [announcement](https://en.wikipedia.org/wiki/April_1943#April_7,_1943_(Wednesday)) of post-war economic plans from US and UK leadership (sometimes known as the "[Keynes plan](https://core.ac.uk/download/pdf/39179343.pdf)"). [These](https://www.foreignaffairs.com/articles/united-states/1943-07-01/currency-stabilization-keynes-and-white-plans) [proposals](https://www.imf.org/en/Publications/WP/Issues/2016/12/30/Why-White-Not-Keynes-Inventing-the-Post-War-International-Monetary-System-15718) led to the famous [conference at Bretton Woods](https://en.wikipedia.org/wiki/Bretton_Woods_Conference), which established many aspects of the post-WWII global financial system, including the [International Monetary Fund](https://en.wikipedia.org/wiki/International_Monetary_Fund).
 
-The event groupings are slightly arbitrary: World War II and the Great Depression encompassed many events, of course. The largest move on Apr 9 1943 appears to have been triggered by the [announcement](https://en.wikipedia.org/wiki/April_1943#April_7,_1943_(Wednesday)) of post-war economic plans from US and UK leadership (sometimes known as the "[Keynes plan](https://core.ac.uk/download/pdf/39179343.pdf)"). [These](https://www.foreignaffairs.com/articles/united-states/1943-07-01/currency-stabilization-keynes-and-white-plans) [proposals](https://www.imf.org/en/Publications/WP/Issues/2016/12/30/Why-White-Not-Keynes-Inventing-the-Post-War-International-Monetary-System-15718) led to the famous [conference at Bretton Woods](https://en.wikipedia.org/wiki/Bretton_Woods_Conference), which established many aspects of the post-WWII global financial system, including the [International Monetary Fund](https://en.wikipedia.org/wiki/International_Monetary_Fund).
+As far as I can tell, the drop on Sep 13 1946 was caused by contradictory statements from the White House on the fundamental foreign policy of the US. This event was mentioned [here](https://en.wikipedia.org/wiki/September_1946#September_12,_1946_(Thursday)) in Wikipedia's historical daily timeline and in a [TIME Magazine article](https://content.time.com/time/subscriber/article/0,33009,777086-1,00.html) entitled "THE PRESIDENCY: What I Meant to Say...".
 
-The data were taken from Yahoo! Finance [here](https://finance.yahoo.com/quote/%5EGSPC/) with the [yfinance](https://github.com/ranaroussi/yfinance) Python library. The S&P 500 index launched in 1957, but the S&P Composite index was its predecessor. Yahoo's data on the [S&P 500's total return](https://finance.yahoo.com/quote/%5ESP500TR) extends only to 1988. [↩](#fn2)
+The S&P 500 data were downloaded from Yahoo! Finance [here](https://finance.yahoo.com/quote/%5EGSPC/) with the [yfinance](https://github.com/ranaroussi/yfinance) Python library. The S&P 500 index launched in 1957, but the S&P Composite index was its predecessor. Yahoo's data on the [S&P 500's total return](https://finance.yahoo.com/quote/%5ESP500TR) extends only to 1988. [↩](#fn2)
 
 &nbsp;
 
