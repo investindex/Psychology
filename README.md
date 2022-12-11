@@ -121,7 +121,7 @@ In my view, there are only about five rational reasons for a passive investor to
 
 * You identified an opportunity for tax loss harvesting.
 
-The first reason should be clear: sometimes you need to raise cash by selling your investments.
+The first reason should be clear: sometimes you need to raise cash by selling your investments. This can be as simple as selling shares of a money market fund to pay your mortgage or rent in a few days.
 
 The second reason is related to your risk tolerance and intended time horizon for a portion of your assets. If you have money earmarked for a down payment on a future home, you wouldn't want it fully invested in risky assets while you're touring houses. Risk should be reduced as you approach the target date.
 
