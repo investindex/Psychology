@@ -109,13 +109,15 @@ These habits are meant to make you feel less concern about the volatility of you
 
 ## Mistakes made when exiting investments
 
-In my view, there are only about four rational reasons for a passive investor to exit a position:
+In my view, there are only about five rational reasons for a passive investor to exit a position:
 
 * You need to liquidate your investments to spend the money in the near future.
 
 * You need to adjust the level of risk in accordance with the intended purpose of the asset.
 
 * You decided that your investment choices were unwise in the first place.
+
+* Your personal ability to accept risk has changed.
 
 * You identified an opportunity for tax loss harvesting.
 
@@ -124,6 +126,8 @@ The first reason should be clear: sometimes you need to raise cash by selling yo
 The second reason is related to your risk tolerance and intended time horizon for a portion of your assets. If you have money earmarked for a down payment on a future home, you wouldn't want it fully invested in risky assets while you're touring houses. Risk should be reduced as you approach the target date.
 
 The third reason has many potential origins: you'd like to change your asset allocation after learning more; you realize your portfolio is too risky or not risky enough; you'd like to diversify after losing money due to concentrating too much in certain assets. Be conscious of tax implications, but you should be willing to update your portfolio as you gain new information about markets and about yourself.
+
+There are also many potential reasons why your ability to accept risk can change. Perhaps after marrying and combining finances with a long-term partner, you feel able to take more risk in your portfolio because you're a two-income household. Or maybe you move to a less secure job because it pays a higher salary, so you reduce your portfolio's risk in case you lose your job in a recession.
 
 Tax loss harvesting is the conscious use of realized losses to offset realized gains for tax purposes. There are misconceptions about its proper use, which are discussed in the [section on taxes](https://github.com/investindex/Taxes#tax-loss-harvesting).
 
@@ -149,7 +153,7 @@ The same reasoning applies to timing the market. Predicting when (say) the US st
 
 Those who remind investors not to miss the best days tend to ignore two points: (1) movements on the worst historical days have been about as large as those on the best days, and (2) the best days are not scattered throughout different parts of the market cycle. They occur in the midst of turbulence during and after market crashes. As you can see in [the table](https://raw.githubusercontent.com/investindex/Psychology/main/Largest%20Gains%20and%20Losses.png) below, the two most positive single-day returns since 1950 were in October 2008. Would you want to miss those? In a sense you would, because you would’ve been better off not holding a stock fund at all than holding one throughout that month, which saw an overall 17% decline.
 
-But again, I warn of the difficulty of outsmarting the market through timing. If you've guessed right a few times and think you have a talent for anticipating the market's direction, try to write down each day at 4pm what you think will happen the next day. Or if you think it's easier, try predicting next week's movement each Friday. Do this every day for a few months, or every week for a year, and I think you'll learn how difficult it is. In my view, a thoroughly informed and passive investor should buy and hold until they can invoke one of the four reasons discussed above for exiting an investment. More info on the table is in this footnote.<sup id="fn2">[[2]](#f2)</sup>
+But again, I warn of the difficulty of outsmarting the market through timing. If you've guessed right a few times and think you have a talent for anticipating the market's direction, try to write down each day at 4pm what you think will happen the next day. Or if you think it's easier, try predicting next week's movement each Friday. Do this every day for a few months, or every week for a year, and I think you'll learn how difficult it is. In my view, a thoroughly informed and passive investor should buy and hold until they can invoke one of the five reasons discussed above for exiting an investment. More info on the table is in this footnote.<sup id="fn2">[[2]](#f2)</sup>
 
 <p align="center">
 <img src="https://github.com/investindex/Psychology/blob/main/Largest%20Gains%20and%20Losses.png"/>
