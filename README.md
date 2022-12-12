@@ -266,7 +266,7 @@ Footnote:
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> It may appear that the best days have larger movements than the worst days, but we should understand that there's an inherent mathematical imbalance between gains and losses expressed in percentage terms. The best day was +28.6% and the worst day was -25.5%. If a $100 investment falls by 25.5% and gains by 28.6% — regardless of whether the gain or loss happens first — the investment will be worth [$95.81](https://www.wolframalpha.com/input?i=100*%281+%2B+G%2F100%29*%281+-+L%2F100%29+where+G+%3D+28.6%2C+L+%3D+25.5). The only two pairs in the table where the gain is slightly larger than the loss are rank 12 — +11.4% and -10.1% — and rank 22 — +9.1% and -8.3%. The loss wins in the other 20 pairs. [↩](#fn2)
+<sup id="f2"> 2 </sup> It may appear that the best days have larger movements than the worst days, but we should understand that there's an inherent mathematical imbalance between gains and losses expressed in percentage terms. The best day was +28.6% and the worst day was -25.5%. If a $100 investment loses 25.5% and gains 28.6% — regardless of whether the gain or loss happens first — the investment will be worth [$95.81](https://www.wolframalpha.com/input?i=100*%281+%2B+G%2F100%29*%281+-+L%2F100%29+where+G+%3D+28.6%2C+L+%3D+25.5). The only two pairs in the table where the gain is slightly larger than the loss are rank 12 — +11.4% and -10.1% — and rank 22 — +9.1% and -8.3%. The loss wins in the other 20 pairs. [↩](#fn2)
 
 &nbsp;
 
