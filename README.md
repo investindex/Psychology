@@ -115,11 +115,11 @@ In my view, there are only about five rational reasons for a passive investor to
 
 * You need to adjust the level of risk in accordance with the intended purpose of the asset.
 
-* You decided that your investment choices were unwise in the first place.
+* You decide that your investment choices were unwise in the first place.
 
 * Your personal ability to accept risk has changed.
 
-* You identified an opportunity for tax loss harvesting.
+* You identify an opportunity for tax loss harvesting.
 
 The first reason should be clear: sometimes you need to raise cash by selling your investments. This can be as simple as selling shares of a money market fund to pay your mortgage or rent in a few days.
 
