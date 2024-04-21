@@ -115,11 +115,11 @@ In my view, there are only about five rational reasons for a passive investor to
 
 * You need to liquidate your investments to spend the money in the near future.
 
-This should be clear: sometimes you need to raise cash by selling your investments. It can be as simple as selling shares of a money market fund to pay your mortgage or rent in a few days.
+This should be clear: sometimes you need to raise cash by selling your investments. It can be as simple as selling shares of a money market fund to pay your mortgage or rent in a week.
 
 * You need to adjust the level of risk in accordance with the intended purpose of the asset.
 
-This is related to your risk tolerance and intended time horizon for a portion of your assets. If you have money earmarked for a down payment on a future home, you wouldn't want it fully invested in risky assets while you're touring houses. Risk should be reduced as you approach the target date.
+This is related to your risk tolerance and intended time horizon for a portion of your assets. If you have money earmarked for a down payment on a future home, you wouldn't want it held in risky assets while you're touring houses. Risk should be reduced as you approach the target date. There are varying types of target dates: buying a home entails dispensing a lump sum for a down payment, whereas reaching retirement age means you'll spend only a small fraction of your savings in the first year. De-risking should be moderate as you approach retirement, since you probably plan to keep investing some portion of that money for decades.
 
 * You decide that your investment choices were unwise in the first place.
 
