@@ -118,7 +118,7 @@ In my view, there are only about five rational reasons for a passive investor to
 
 * You need to liquidate your investments to spend the money in the near future.
 
-This should be clear: sometimes you need to raise cash by selling your investments. It can be as simple as selling shares of a money market fund to pay your mortgage or rent in a week.
+This should be clear: sometimes you need to raise cash by selling your investments. Maybe you need to sell a few thousand shares of a money market fund for a down payment on a car.
 
 * You need to adjust the level of risk in accordance with the intended purpose of the asset.
 
