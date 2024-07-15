@@ -4,7 +4,7 @@ Before diving into the main discussion, I want to highlight my favorite resource
 
 Ramit emphasizes many principles on his podcast, including these three: (1) Simplify and automate every repetitive action you can — like bill payments and investments — so that you're effortlessly consistent with minor details. This frees your attention from drudgery so you can focus on the big picture. (2) Spend [extravagantly](https://www.youtube.com/watch?v=zxvrDI3X3t4) on the things you love, and cut costs mercilessly on the things you don't. (3) Your financial plans should be motivated by a grand vision — what he calls your "rich life" — that makes you excited for the future and ties together all the small actions and hard work. Your vision should be detailed, and it should include near-term goals — if your only goal related to spending money is to retire in some number of years, you're artificially diminishing your own life.
 
-I highly recommend taking a look at the podcast, either on YouTube or a podcast app. Now let's move into topics closer to investing.
+I highly recommend taking a look at the podcast, either on YouTube or a podcast app. He also has a book. Now let's move into topics closer to investing.
 
 ## Intro
 
