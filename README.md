@@ -83,6 +83,9 @@ Say the stock allocation in your portfolio drops by 3% the first day, and 30% in
 Imagining these scenarios before starting is essential. Too many people wait until they've lost money to realize they have no idea why they bought an investment. If you buy something you don't understand or don't believe in, that will become clear when it's performing poorly. You need to have a certain amount of faith in your investments. It makes no difference to their returns, but it does determine whether you'll stay invested. This is articulated well in [the Rational Reminder interview](https://www.youtube.com/watch?v=-SPAYhKKDDY) with Paul Merriman, a former financial advisor and current educator with a warm and reassuring presence. Once you have a portfolio you're comfortable with regardless of market conditions, you'll be able to __focus on the soundness of the process__ no matter what happens.
 
 >You've got to look in the mirror every day and say, "What am I going to do if the market goes down 10%? What do I do if it goes down 20%? Am I going to sell? Am I going to get out?" If that's your answer, you should consider reducing your stock holdings today.
+
+&nbsp;
+
 -Peter Lynch
 
 &nbsp;
