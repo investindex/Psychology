@@ -84,7 +84,7 @@ Imagining these scenarios before starting is essential. Too many people wait unt
 
 >You've got to look in the mirror every day and say, "What am I going to do if the market goes down 10%? What do I do if it goes down 20%? Am I going to sell? Am I going to get out?" If that's your answer, you should consider reducing your stock holdings today.
 
--Peter Lynch
+&emsp; &emsp; &emsp; &emsp; -Peter Lynch
 
 &nbsp;
 
