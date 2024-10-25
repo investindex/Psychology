@@ -26,7 +26,7 @@ Click to move to each section:
 
 ## Mistakes made when buying in
 
-### Automation
+### Don't ignore automation - you are a flawed human
 
 Retirement accounts in the US hold tens of trillions of dollars in assets. Most of this wealth was built on a simple foundation: a small portion of each paycheck automatically withheld, transferred to a work retirement account, and invested. Some plan participants have never even created an online account, and began investing for their future because they didn't opt out. Anyone who has used this system knows how effortless it is.
 
